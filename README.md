@@ -20,3 +20,5 @@ Packages:
   - ML_Models.ipynb contains research done with standard ML models listed in the paper.
   - protoNN.ipynb contains implementation of the work in low size protoNN Model.
   - Bonsai.ipynb contains implementation of the work in low size Bonsai Model.
+
+PS: Publication will be updated after presentation at iEEE SysCon 2020
