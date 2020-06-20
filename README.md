@@ -22,4 +22,4 @@ Packages:
   - protoNN.ipynb contains implementation of the work in low size protoNN Model.
   - Bonsai.ipynb contains implementation of the work in low size Bonsai Model.
 
-PS: Publication will be updated after presentation at iEEE SysCon 2020
+Read our publication: [Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms](https://arxiv.org/abs/2004.05811)
