@@ -3,8 +3,9 @@ Parkinson disease patients suffer from "Freezing of Gait"(FOG)  events during da
 
 # Software requirements: 
 To download: 
- - EdgeML git repository from Microsoft India Research. EdgeML requirements are available in the same.
- - Daphnet Dataset from UCI ML data repository. Contains accelerometer data.
+ - [EdgeML](https://github.com/Microsoft/EdgeML) git repository from Microsoft India Research. EdgeML requirements are available in the same.
+ 
+ - [Daphnet](https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait) Dataset from UCI ML data repository. Contains accelerometer data.
 
 Code base is available as python notebooks. We recommend google colab notebooks.
 Packages:
